@@ -33,7 +33,7 @@ Klik scrape_outline.exe di folder APP
 
 ## 👥 Kontribusi
 
-Kami menyambut kontribusi Anda! Lihat `CONTRIBUTING.md` untuk panduan.
+Kami menyambut kontribusi Anda! Lihat panduan berikut.
 
 <details>
 <summary>Langkah-langkah Kontribusi</summary>
@@ -50,7 +50,7 @@ Kami menyambut kontribusi Anda! Lihat `CONTRIBUTING.md` untuk panduan.
 
 ## 📞 Kontak
 
-Ryan Rachmad Hidayat - [@instagram_handle](https://www.instagram.com/ryan_rachmad36/) - ryan.rachmad.works@gmail.com
+Ryan Rachmad Hidayat - [@ryan_rachmad36](https://www.instagram.com/ryan_rachmad36/) - ryan.rachmad.works@gmail.com
 
 Link Proyek: [https://github.com/Ryan-Rachmad-Hidayat/ContentSynth](https://github.com/Ryan-Rachmad-Hidayat/ContentSynth)
 
